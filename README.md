@@ -4,7 +4,7 @@ I am Alejandro, a Software Engineering student passionate about backend developm
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/alejandrosanchezmarin09) 
-[![ORCID](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://orcid.org/0009-0006-8706-4446) 
+[![ORCID](https://img.shields.io/badge/-Nordic Semiconductor-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white)](https://orcid.org/0009-0006-8706-4446) 
 
 
 # 💻 Tech Stack:
